@@ -9,7 +9,7 @@
 
 //This Macro definition decide whether you use I2C or SPI
 //When USEIIC is 1 means use I2C interface, When it is 0,use SPI interface
-#define USEIIC 0
+#define USEIIC 1
 
 /*
 This Demo is tested on UNO PLUS
